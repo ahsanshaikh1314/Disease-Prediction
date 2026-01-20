@@ -1,0 +1,30 @@
+Flu has symptoms Fever, Cough, Body Aches.
+Cold has symptoms Sneezing, Runny Nose, Sore Throat.
+COVID-19 has symptoms Fever, Cough, Shortness of Breath, Loss of Smell.
+Strep Throat has symptoms Sore Throat, Fever, Swollen Glands.
+Allergy has symptoms Sneezing, Runny Nose, Itchy Eyes.
+Pneumonia has symptoms Cough, Fever, Difficulty Breathing.
+Bronchitis has symptoms Cough, Chest Tightness, Fatigue.
+Migraine has symptoms Headache, Nausea, Sensitivity to Light.
+Gastroenteritis has symptoms Nausea, Vomiting, Diarrhea.
+Tonsillitis has symptoms Sore Throat, Fever, Difficulty Swallowing.
+Sinusitis has symptoms Nasal Congestion, Headache, Facial Pain.
+Ear Infection has symptoms Ear Pain, Fever, Fluid Drainage.
+Urinary Tract Infection has symptoms Painful Urination, Frequent Urination, Abdominal Pain.
+Conjunctivitis has symptoms Red Eyes, Itchy Eyes, Eye Discharge.
+Asthma has symptoms Wheezing, Shortness of Breath, Chest Tightness.
+Food Poisoning has symptoms Vomiting, Diarrhea, Abdominal Cramps.
+Anemia has symptoms Fatigue, Dizziness, Pale Skin.
+Hypertension has symptoms Headache, Dizziness, Blurred Vision.
+Diabetes has symptoms Increased Thirst, Frequent Urination, Fatigue.
+Appendicitis has symptoms Abdominal Pain, Nausea, Fever.
+Chickenpox has symptoms Itchy Rash, Fever, Fatigue.
+Measles has symptoms Rash, Fever, Cough, Runny Nose.
+Mumps has symptoms Swollen Glands, Fever, Headache.
+Eczema has symptoms Itchy Skin, Dry Skin, Red Patches.
+GERD has symptoms Heartburn, Chest Pain, Difficulty Swallowing.
+Kidney Stones has symptoms Severe Back Pain, Nausea, Painful Urination.
+Lyme Disease has symptoms Rash, Fever, Fatigue, Joint Pain.
+Mononucleosis has symptoms Fatigue, Sore Throat, Fever, Swollen Glands.
+Depression has symptoms Low Mood, Loss of Interest, Fatigue.
+Anxiety has symptoms Excessive Worry, Restlessness, Fatigue.
