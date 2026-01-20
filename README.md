@@ -28,7 +28,7 @@ Instead of simple "If-Then" rules, this system:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/disease-prediction-system.git](https://github.com/yourusername/disease-prediction-system.git)
+    git clone [https://github.com/ahsanshaikh1314/disease-prediction-system.git](https://github.com/yourusername/disease-prediction-system.git)
     cd disease-prediction-system
     ```
 
